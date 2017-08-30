@@ -28,7 +28,7 @@ class Customer {
     Adress: String;
     Saved: boolean;
 
-    constructor(name, adress) { // contsructor
+    constructor(name: string, adress: string) { // contsructor
         this.Name = name;
         this.Adress = adress;
     }
@@ -135,11 +135,11 @@ console.log(`${v1}-${v2}-${v3}`);
 
 // namespaces
 namespace MathsExample {
-    export function add(x, y) {
+    export function add(x: number, y: number) {
         console.log(x + y);
     }
 
-    function sub(x, y) {
+    function sub(x: number, y: number) {
         console.log(x - y);
     }
 
