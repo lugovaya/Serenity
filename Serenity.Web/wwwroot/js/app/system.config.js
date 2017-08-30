@@ -10,7 +10,7 @@
             '@angular/router': '/node_modules/@angular/router/bundles/router.umd.js',
             '@angular/forms': '/node_modules/@angular/forms/bundles/forms.umd.js',
 
-            'rxjs':'/node_modules/rxjs',
+            'rxjs':'/node_modules/rxjs'
         },
         packages: {
             'js': {

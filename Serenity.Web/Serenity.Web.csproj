@@ -14,8 +14,6 @@
     <Folder Include="Areas\Account\Views" />
     <Folder Include="Areas\Admin\ViewModels" />
     <Folder Include="Areas\Admin\Views" />
-    <Folder Include="Areas\Market\ViewModels" />
-    <Folder Include="Areas\Market\Views" />
     <Folder Include="Services" />
   </ItemGroup>
   <ItemGroup>

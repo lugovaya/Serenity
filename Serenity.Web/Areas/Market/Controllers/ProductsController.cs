@@ -2,10 +2,15 @@
 
 namespace Serenity.Areas.Market.Controllers
 {
-    public class Controller2 : Controller
+    public class ProductsController : Controller
     {
         // GET
         public IActionResult Index()
+        {
+            return View();
+        }
+
+        public IActionResult Details(int id)
         {
             return View();
         }

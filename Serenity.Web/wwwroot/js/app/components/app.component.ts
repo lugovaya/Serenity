@@ -6,8 +6,7 @@ import {Component} from "@angular/core"
 
 @Component({
         selector: 'app-component',
-        template: `<h1>Welcome to Serenity project.</h1>
-<i>Everything from Tropical to you</i>`
+        templateUrl: './js/app/components/app.component.html'
     }
 )
     
