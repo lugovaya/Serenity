@@ -13,7 +13,7 @@
             'rxjs':'/node_modules/rxjs',
         },
         packages: {
-            'ts': {
+            'js': {
                 defaultExtension: 'js'
             },
             rxjs: {
